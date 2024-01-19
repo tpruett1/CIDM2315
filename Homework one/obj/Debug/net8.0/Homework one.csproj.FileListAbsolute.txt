@@ -1,0 +1,14 @@
+C:\Users\terry\OneDrive\Desktop\Homework one\bin\Debug\net8.0\Homework one.exe
+C:\Users\terry\OneDrive\Desktop\Homework one\bin\Debug\net8.0\Homework one.deps.json
+C:\Users\terry\OneDrive\Desktop\Homework one\bin\Debug\net8.0\Homework one.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Homework one\bin\Debug\net8.0\Homework one.dll
+C:\Users\terry\OneDrive\Desktop\Homework one\bin\Debug\net8.0\Homework one.pdb
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.dll
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\refint\Homework one.dll
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.pdb
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\Homework one.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Homework one\obj\Debug\net8.0\ref\Homework one.dll
