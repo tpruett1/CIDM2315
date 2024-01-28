@@ -1,0 +1,14 @@
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\bin\Debug\net8.0\CIDM.exe
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\bin\Debug\net8.0\CIDM.deps.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\bin\Debug\net8.0\CIDM.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\bin\Debug\net8.0\CIDM.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\bin\Debug\net8.0\CIDM.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\refint\CIDM.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\CIDM.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q1\obj\Debug\net8.0\ref\CIDM.dll

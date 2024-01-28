@@ -1,0 +1,14 @@
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\bin\Debug\net8.0\Q3Bonus.exe
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\bin\Debug\net8.0\Q3Bonus.deps.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\bin\Debug\net8.0\Q3Bonus.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\bin\Debug\net8.0\Q3Bonus.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\bin\Debug\net8.0\Q3Bonus.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\refint\Q3Bonus.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\Q3Bonus.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Q3Bonus\obj\Debug\net8.0\ref\Q3Bonus.dll
