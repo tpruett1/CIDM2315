@@ -1,0 +1,14 @@
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\bin\Debug\net8.0\Q3.exe
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\bin\Debug\net8.0\Q3.deps.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\bin\Debug\net8.0\Q3.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\bin\Debug\net8.0\Q3.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\bin\Debug\net8.0\Q3.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\refint\Q3.dll
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.pdb
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\Q3.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\CIDM\Homework3\Q3\obj\Debug\net8.0\ref\Q3.dll
